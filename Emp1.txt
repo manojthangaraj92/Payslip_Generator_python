@@ -1,0 +1,4 @@
+MAN01	Thangaraj	ManojKumar	122345	45	12	15	70	700
+KP01	Ravichandran	Krishna	345768	60	15	15	70	700
+SP02	Nagarajan	Santhosh	474636	70	20	15	70	700
+VK01	Muthusamy	Viknesh	7563283	90	15	20	70	700
